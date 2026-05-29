@@ -22,5 +22,4 @@ Aquí puedes ver mis trabajos más recientes:
 ¡Estoy abierto a nuevas oportunidades y proyectos!
 
 -> **LinkedIn:** www.linkedin.com/in/alejandro-lópez-dev
-
 -> **Email:** alopez18.dev@gmail.com
