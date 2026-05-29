@@ -11,7 +11,9 @@ Desarrollador Web enfocado en crear soluciones tecnológicas eficientes mediante
 Aquí puedes ver mis trabajos más recientes:
 
 -> **Gestor Documental e Indicadores:** Sistema administrativo con gestión de usuarios, roles, descarga masiva y visualización de datos dinámica.
+
 -> **App Logística y Financiera:** Herramienta para control de buses y automatización de tablas de amortización de créditos.
+
 -> **Administrador de Personal (HRMS):** Plataforma para gestión de expedientes, hojas de vida y documentos de personal.
 
 *(Muy pronto agregaré los enlaces a las demos en vivo de cada proyecto)*
